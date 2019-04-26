@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Lamoda\Lamoda\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\source\repos\Lamoda\Lamoda\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\source\repos\Lamoda\Lamoda\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\source\repos\Lamoda\Lamoda\bin\Debug\Lamoda.dll
+C:\Users\User\source\repos\Lamoda\Lamoda\bin\Debug\Lamoda.pdb
+C:\Users\User\source\repos\Lamoda\Lamoda\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\source\repos\Lamoda\Lamoda\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\source\repos\Lamoda\Lamoda\bin\Debug\WebDriver.dll
+C:\Users\User\source\repos\Lamoda\Lamoda\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\source\repos\Lamoda\Lamoda\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\source\repos\Lamoda\Lamoda\bin\Debug\WebDriver.xml
+C:\Users\User\source\repos\Lamoda\Lamoda\obj\Debug\Lamoda.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lamoda\Lamoda\obj\Debug\Lamoda.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lamoda\Lamoda\obj\Debug\Lamoda.csproj.CopyComplete
+C:\Users\User\source\repos\Lamoda\Lamoda\obj\Debug\Lamoda.dll
+C:\Users\User\source\repos\Lamoda\Lamoda\obj\Debug\Lamoda.pdb
